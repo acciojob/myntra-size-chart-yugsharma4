@@ -1,2 +1,11 @@
 
 /* Your CSS Code here. */
+thead{
+	background: lightcoral;
+	color: white;
+}
+
+tr:nth-child(even){
+	background-color: gray;
+	color: white;
+}
